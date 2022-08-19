@@ -4,8 +4,6 @@
 
 4D is a full-stack development and runtime environment for quickly creating web, mobile, and desktop applications.
 
-In the repository below, you will find the code of internal component that you can customise like 4D Write Pro interface, the plugin SDK to help you to create your own plugins, and the source of our documentation.
-
 If you want to discover more about 4D, here are some useful links:
 * the [web site](https://us.4d.com),
 * the [official documentation](https://developer.4d.com/docs/),
